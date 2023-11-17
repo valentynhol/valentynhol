@@ -1,4 +1,4 @@
-- Hi, I’m Valentyn Holovko
+- Hi, my name is Valentyn Holovko
 - I’m interested in programming and creating smth new
 
 
